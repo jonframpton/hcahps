@@ -1,0 +1,20 @@
+---
+title: "README"
+output: html_document
+---
+
+#### Exploring the HCAHPS Data
+I wanted to create a very simple view into the HCAHPS or <strong>Hospital Consumer Assesmment for Healthcare Providers and Systems</strong>.  It seemed like a good data set to play around with and so...
+
+The data was taken from: https://www.healthdata.gov/dataset/search/hcahps
+and is represented in a few files.
+
+For the purpose of this fun I focused only on the Hospital based data set.
+
+#### The Fun..
+The current implementation of this project is hosted by RStudio on ShinyApps.io:
+https://frampton.shinyapps.io/share/
+
+#### Future Fun.
+There is so much to do with this data set, I hope to extend and make this a fun little project to bring some light to the influecning factors of ratings and measures associated with the hospital from the eyes of the users themselves.
+
