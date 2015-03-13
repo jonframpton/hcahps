@@ -1,8 +1,3 @@
----
-title: "README"
-output: html_document
----
-
 #### Exploring the HCAHPS Data
 I wanted to create a very simple view into the HCAHPS or <strong>Hospital Consumer Assesmment for Healthcare Providers and Systems</strong>.  It seemed like a good data set to play around with and so...
 
